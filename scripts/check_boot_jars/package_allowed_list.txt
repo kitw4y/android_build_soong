@@ -262,3 +262,22 @@ org\.codeaurora\.internal.*
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
 org\.ifaa\.android\.manager.*
+
+###################################################
+# MediaTek IMS functionality needed by vendor/mediatek
+mediatek\.telecom.*
+mediatek\.telephony.*
+com\.mediatek\.common.*
+com\.mediatek\.dm.*
+com\.mediatek\.gba.*
+com\.mediatek\.gwsd.*
+com\.mediatek\.ims.*
+com\.mediatek\.ims\.internal.*
+com\.mediatek\.internal.*
+com\.mediatek\.android\.mms\.pdu.*
+com\.mediatek\.provider.*
+com\.mediatek\.telephony.*
+com\.mediatek\.telephony\.internal.*
+com\.mediatek\.wfo.*
+vendor\.mediatek\.hardware\.mtkradioex\.V2_0.*
+vendor\.mediatek\.hardware\.pplagent\.V1_0
